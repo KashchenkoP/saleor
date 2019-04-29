@@ -16,7 +16,6 @@
 !.pylintrc
 !.travis*
 !.tx
-*.css
 *.log
 *.pot
 *.pyc
@@ -31,3 +30,4 @@ dist/
 /media/
 /node_modules/
 /static/
+common.env
