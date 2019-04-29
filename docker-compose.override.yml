@@ -13,7 +13,7 @@ services:
       - ./webpack-bundle.json:/app/webpack-bundle.json
       - /app/templates/templated_email/compiled
       # shared volume between celery and web for media
-      - /var/www/html/saleor-media:/app/media
+      - /var/www/html/media:/app/media
 
 
   redis:
@@ -27,4 +27,4 @@ services:
       # prevents overshadowing of build-time assets
       - /app/templates/templated_email/compiled
       # shared volume between celery and web for media
-      - /var/www/html/saleor-media:/app/media
+      - /var/www/html/media:/app/media
