@@ -1,1 +1,21 @@
-{"status":"done","publicPath":"/static/assets/","chunks":{"dashboard":[{"name":"dashboard.30ad83f264604fc0442e.css","publicPath":"/static/assets/dashboard.30ad83f264604fc0442e.css","path":"/home/kashchenko/PycharmProjects/saleor/saleor/static/assets/dashboard.30ad83f264604fc0442e.css"},{"name":"dashboard.30ad83f264604fc0442e.js","publicPath":"/static/assets/dashboard.30ad83f264604fc0442e.js","path":"/home/kashchenko/PycharmProjects/saleor/saleor/static/assets/dashboard.30ad83f264604fc0442e.js"}],"dashboard-next":[{"name":"dashboard-next.f8a4a0577c41d287cdd2.js","publicPath":"/static/assets/dashboard-next.f8a4a0577c41d287cdd2.js","path":"/home/kashchenko/PycharmProjects/saleor/saleor/static/assets/dashboard-next.f8a4a0577c41d287cdd2.js"}],"document":[{"name":"document.86f983a7da05502f8326.css","publicPath":"/static/assets/document.86f983a7da05502f8326.css","path":"/home/kashchenko/PycharmProjects/saleor/saleor/static/assets/document.86f983a7da05502f8326.css"},{"name":"document.86f983a7da05502f8326.js","publicPath":"/static/assets/document.86f983a7da05502f8326.js","path":"/home/kashchenko/PycharmProjects/saleor/saleor/static/assets/document.86f983a7da05502f8326.js"}],"storefront":[{"name":"storefront.e059745554f4917e17c4.css","publicPath":"/static/assets/storefront.e059745554f4917e17c4.css","path":"/home/kashchenko/PycharmProjects/saleor/saleor/static/assets/storefront.e059745554f4917e17c4.css"},{"name":"storefront.e059745554f4917e17c4.js","publicPath":"/static/assets/storefront.e059745554f4917e17c4.js","path":"/home/kashchenko/PycharmProjects/saleor/saleor/static/assets/storefront.e059745554f4917e17c4.js"}]}}
+{"status":"done",
+  "publicPath":"/static/assets/",
+  "chunks":{
+    "dashboard":[
+      {"name":"dashboard.30ad83f264604fc0442e.css",
+        "publicPath":"/static/assets/dashboard.30ad83f264604fc0442e.css",
+        "path":"/home/kashchenko/PycharmProjects/saleor/saleor/static/assets/dashboard.30ad83f264604fc0442e.css"},
+      {"name":"dashboard.30ad83f264604fc0442e.js",
+        "publicPath":"/static/assets/dashboard.30ad83f264604fc0442e.js",
+        "path":"/home/kashchenko/PycharmProjects/saleor/saleor/static/assets/dashboard.30ad83f264604fc0442e.js"}
+    ],
+    "dashboard-next":[
+      {"name":"dashboard-next.f8a4a0577c41d287cdd2.js",
+        "publicPath":"/static/assets/dashboard-next.f8a4a0577c41d287cdd2.js",
+        "path":"/home/kashchenko/PycharmProjects/saleor/saleor/static/assets/dashboard-next.f8a4a0577c41d287cdd2.js"}
+    ],
+    "document":[
+      {"name":"document.86f983a7da05502f8326.css",
+        "publicPath":"/static/assets/document.86f983a7da05502f8326.css",
+        "path":"/home/kashchenko/PycharmProjects/saleor/saleor/static/assets/document.86f983a7da05502f8326.css"},
+      {"name":"document.86f983a7da05502f8326.js","publicPath":"/static/assets/document.86f983a7da05502f8326.js","path":"/home/kashchenko/PycharmProjects/saleor/saleor/static/assets/document.86f983a7da05502f8326.js"}],"storefront":[{"name":"storefront.e059745554f4917e17c4.css","publicPath":"/static/assets/storefront.e059745554f4917e17c4.css","path":"/home/kashchenko/PycharmProjects/saleor/saleor/static/assets/storefront.e059745554f4917e17c4.css"},{"name":"storefront.e059745554f4917e17c4.js","publicPath":"/static/assets/storefront.e059745554f4917e17c4.js","path":"/home/kashchenko/PycharmProjects/saleor/saleor/static/assets/storefront.e059745554f4917e17c4.js"}]}}
