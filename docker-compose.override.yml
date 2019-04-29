@@ -27,7 +27,4 @@ services:
       # prevents overshadowing of build-time assets
       - /app/templates/templated_email/compiled
       # shared volume between celery and web for media
-      - saleor-media:/app/media
-
-volumes:
-  saleor-media:
+      - /var/www/html/saleor-media:/app/media
